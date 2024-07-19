@@ -1,4 +1,3 @@
-Aqui está um exemplo de documentação `README.md` para o seu projeto:
 
 ---
 
