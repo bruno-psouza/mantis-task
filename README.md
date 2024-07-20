@@ -54,12 +54,9 @@ Para executar os testes, siga as etapas abaixo:
    ```
 2. **Configure as variáveis de ambiente**:
 
-   Crie um arquivo `.env` na raiz do projeto com as seguintes variáveis:
+   Criado um arquivo `.env` na raiz do projeto com as variaveis de ambiente conforme as senhas enviadas por email
 
-   ```env
-   CYPRESS_USERNAME=Bruno_Souza
-   CYPRESS_PASSWORD=mantis2024
-   ```
+ 
 3. **Execute os testes**:
 
    ```bash
