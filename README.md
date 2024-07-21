@@ -68,30 +68,6 @@ Para executar os testes, siga as etapas abaixo:
    ```bash
    npx cypress run
    ```
-Disposição dos repositórios e arquivos :
-
-
-
-
-
-/cypress-project
-  ├── cypress.config.js
-  ├── cypress
-  │   ├── e2e
-  │   │   ├── criandotask.cy.js
-  │   │   ├── logando.cy.js
-  │   │   └── performance.cy.js
-  │   └── support
-  │       ├── commands.js
-  │       └── palavras-ptbr.js
-  ├── .env
-  ├── package.json
-  ├── package-lock.json
-  └── README.md
-
-
-
-
 
 
 
