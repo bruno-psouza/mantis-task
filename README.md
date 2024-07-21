@@ -71,6 +71,9 @@ Para executar os testes, siga as etapas abaixo:
 Disposição dos repositórios e arquivos :
 
 
+
+
+
 /cypress-project
   ├── cypress.config.js
   ├── cypress
@@ -85,3 +88,13 @@ Disposição dos repositórios e arquivos :
   ├── package.json
   ├── package-lock.json
   └── README.md
+
+
+
+
+
+
+
+
+
+
