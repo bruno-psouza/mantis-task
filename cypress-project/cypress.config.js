@@ -6,7 +6,7 @@ dotenv.config(); // Carrega variáveis do arquivo .env
 
 module.exports = defineConfig({
   e2e: {
-    baseUrl: 'https://mantis-prova.base2.com.br',
+    baseUrl: 'https://mantis-prova.base223.com.br',
     setupNodeEvents(on, config) {
       return config;
     },
